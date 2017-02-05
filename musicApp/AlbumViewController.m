@@ -72,7 +72,7 @@
     else
         return 44;
 }
-
+/*
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:<#@"reuseIdentifier"#> forIndexPath:indexPath];
     
@@ -80,5 +80,5 @@
     
     return cell;
 }
-
+*/
 @end
